@@ -31,16 +31,22 @@
     padding: 4px 8px;
 }
 
+h1, h2, h3 {
+   color: hwb(265 89% 4% / 0.882);
+   font-weight: 700;
+}
 
-
-
+a:hover {
+    color: #754fa7e1;
+}
 
 footer {
-   background-color: #6a23a9;
+   background-color: #9494ce;
 }
 
 .rodape {
    background-color: black;
+   color:aliceblue
    text-align: center;
 }
 
